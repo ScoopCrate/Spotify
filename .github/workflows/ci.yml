@@ -2,6 +2,9 @@ name: Tests
 
 on:
   push:
+    paths-ignore:
+      - ".github/**"
+      - ".vscode/**"
     branches:
       - 'main'
       - 'master'
