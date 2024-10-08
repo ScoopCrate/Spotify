@@ -1,3 +1,11 @@
+# Scoop Spotify
+
+How do I install these manifests?
+---------------------------------
+
+To add this bucket, run `scoop bucket add <name-of-bucket> <location-of-git-repo>`. To install, do `scoop install <manifest>`.
+
+---
 # Scoop Bucket Template
 
 <!-- Uncomment the following line after replacing placeholders -->
