@@ -1,5 +1,5 @@
 {
-    "version": "1.2.50.335.g5e2860a8",
+    "version": "1.2.51.345.gcc39d911",
     "description": "A digital music service that gives you access to millions of songs.",
     "homepage": "https://www.spotify.com",
     "license": {
@@ -7,7 +7,7 @@
         "url": "https://www.spotify.com/legal/end-user-agreement/"
     },
     "url": "https://download.scdn.co/SpotifyFullSetupX64.exe",
-    "hash": "b3561fccf7eb3ce50ca782a828c52f08046726c220ba896198c7edf7f4151f31",
+    "hash": "6e5ce2b5f6fea2c7aeb64903930e8e489179d412aa72064b0217b36d0c52a834",
     "installer": {
         "script": [
             "Start-Process -Wait \"$dir\\$fname\" -ArgumentList '/extract', \"`\"$dir`\"\"",
